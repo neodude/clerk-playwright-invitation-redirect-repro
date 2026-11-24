@@ -1,0 +1,1 @@
+{"name":"clerk-redirect-repro","private":true,"type":"module","dependencies":{"@clerk/testing":"2.3.7","@playwright/test":"1.65.1"}}
